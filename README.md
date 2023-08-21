@@ -61,11 +61,7 @@ test/
 
 3. List the names of files in the staging area.
    ```
-   README.md
-   src/a.py
-   src/b.py
-   src/c.py
-   test/test_a.py
+   git status
    ```
 
 4. Remove `README.md` from the staging area. This is **very useful** if you accidentally add something you don't want to commit.
