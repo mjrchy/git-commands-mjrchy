@@ -213,6 +213,7 @@ test/
 * [Visual Git Reference](https://marklodato.github.io/visual-git-guide) one page with illustrations of git commands.
 * [Markdown Cheatsheet][markdown-cheatsheet] summary of Markdown commands.
 * [Github Markdown][github-markdown] some differences in the way Github handles markdown and special Markdown for repos.
+* [w3schools][https://www.w3schools.com/] python tutorial.
 
 Learn Git Visually:
 
