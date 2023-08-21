@@ -207,8 +207,6 @@ test/
 ---
 ## Resources
 
-> TODO: Add your favorite Git resources (at least 1)
-
 * [Pro Git Online Book][ProGit] Chapters 2 & 3 contain the essentials. Downloadable e-book is available, too. 
 * [Visual Git Reference](https://marklodato.github.io/visual-git-guide) one page with illustrations of git commands.
 * [Markdown Cheatsheet][markdown-cheatsheet] summary of Markdown commands.
